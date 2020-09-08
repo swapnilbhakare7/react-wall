@@ -1,0 +1,16 @@
+.wall-container {
+  width: 185vh;
+  min-height: 100vh;
+  padding: 10px;
+  background-color: sandybrown;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  position: absolute;
+  padding: 10px;
+  bottom: 10px;
+  right: 10px;
+}

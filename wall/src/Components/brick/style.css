@@ -1,0 +1,12 @@
+.brick-container {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  overflow: hidden;
+  background-color: skyblue;
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
